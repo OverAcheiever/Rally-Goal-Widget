@@ -1,0 +1,64 @@
+{
+    "creatorCoin": {
+      "type": "text",
+      "label": "CCoin Symbol [in Caps]",
+      "value": "SKOT",
+      "group": "Global Settings"
+    },
+    "goal": {
+      "type": "number",
+      "label": "Goal Amount [USD]",
+      "value": 100,
+      "min": 0,
+      "max": 100000,
+      "step": 1,
+      "group": "Global Settings"
+    },
+    "goalLabel": {
+      "type": "text",
+      "label": "Goal Label",
+      "value": "CHILDREN'S HOSPITAL",
+      "group": "Global Settings"
+    },
+    "reset": {
+      "type": "button",
+      "label": "RESET PROGRESS",
+      "value": ""
+    },
+    "barBackground": {
+      "type": "colorpicker",
+      "label": "Bar Background",
+      "value": "#d5d5d5"
+    },
+    "barColor": {
+      "type": "colorpicker",
+      "label": "Bar Color",
+      "value": "#FF3939"
+    },
+    "widgetBackground": {
+      "type": "colorpicker",
+      "label": "Background Gradient 1",
+      "value": "#333"
+    },
+    "widgetBackground2": {
+      "type": "colorpicker",
+      "label": "Background Gradient 2",
+      "value": "#000"
+    },
+    "fontColor": {
+      "type": "colorpicker",
+      "label": "Percentage Font Color",
+      "value": "#d2d2d2"
+    },
+    "labelColor": {
+      "type": "colorpicker",
+      "label": "Label Color",
+      "value": "#333"
+    },
+    "labelGoalColor": {
+      "type": "colorpicker",
+      "label": "Goal Amount Color",
+      "value": "#e5e5e5"
+    }
+  }
+  
